@@ -1,0 +1,35 @@
+#quienesSomos{
+    scroll-margin-top: 6rem;
+}
+div>a{
+    background-color: #A0B8CF;
+    color: black;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight:lighter;
+    width: 50%;
+    cursor: pointer; 
+    border: none;
+    border-radius: 20px;
+    box-shadow: 2px 5px #dbdadaf9;
+}
+
+.card-body2{
+    row-gap:inherit;
+    columns:1;
+    text-align: center;    
+
+}
+
+.card-body3{
+    row-gap:inherit;
+    columns:1;
+    text-align: center;    
+
+}
+
+.card-body4{
+    row-gap:inherit;
+    columns:1;
+    text-align: center;    
+
+}
